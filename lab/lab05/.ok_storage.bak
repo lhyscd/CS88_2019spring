@@ -1,0 +1,6 @@
+'bad_list_flattener-correct', (0, 70)
+'is_palindrome-correct', (512, 70)
+'ab_plus_c-correct', (1024, 70)
+'gcd-correct', (1536, 70)
+'remove-correct', (2048, 70)
+'rsort-correct', (2560, 70)

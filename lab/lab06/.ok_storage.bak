@@ -1,0 +1,6 @@
+'has_seven-correct', (0, 70)
+'deep_len-correct', (512, 70)
+'polynomial-correct', (1024, 70)
+'add_matrices-correct', (1536, 70)
+'mul_by_num-correct', (2048, 70)
+'skip_add-correct', (2560, 70)

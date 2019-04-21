@@ -1,0 +1,6 @@
+'dice-correct', (0, 70)
+'rolls_until_six-correct', (512, 70)
+'cup-correct', (1024, 70)
+'add_to_cup-correct', (1536, 70)
+'roll_cup-correct', (2048, 70)
+'roll_dice-correct', (2560, 70)

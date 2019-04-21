@@ -1,0 +1,8 @@
+'str_interval-correct', (0, 70)
+'add_interval-correct', (512, 70)
+'mul_interval-correct', (1024, 70)
+'div_interval-correct', (1536, 70)
+'sub_interval-correct', (2048, 70)
+'make_center_percent-correct', (2560, 70)
+'quadratic-correct', (3072, 70)
+'percent-correct', (3584, 70)

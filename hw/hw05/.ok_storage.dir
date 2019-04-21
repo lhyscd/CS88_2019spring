@@ -1,0 +1,7 @@
+'skip_mul-correct', (0, 70)
+'filter-correct', (512, 70)
+'reduce-correct', (1024, 70)
+'decimal-correct', (1536, 70)
+'binary-correct', (2048, 70)
+'count_digit-correct', (2560, 70)
+'ten_pairs-correct', (3072, 70)

@@ -1,0 +1,6 @@
+'avoid_keyerror-correct', (0, 70)
+'safe_sum-correct', (512, 70)
+'Beater.energy-correct', (1024, 70)
+'Chaser.energy-correct', (1536, 70)
+'Seeker.energy-correct', (2048, 70)
+'Keeper.energy-correct', (2560, 70)

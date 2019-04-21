@@ -1,0 +1,5 @@
+'merge_dict-correct', (0, 70)
+'merge_dict_mutate-correct', (512, 70)
+'list_combine-correct', (1024, 70)
+'dict_cycle-correct', (1536, 70)
+'make_pokemon_set-correct', (2048, 70)

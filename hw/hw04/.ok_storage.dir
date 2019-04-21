@@ -1,0 +1,5 @@
+'arange-correct', (0, 70)
+'repeated-correct', (512, 70)
+'double-correct', (1024, 70)
+'count_cond-correct', (1536, 70)
+'match_and_apply-correct', (2048, 70)
