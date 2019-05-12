@@ -1,0 +1,7 @@
+'pricing-correct', (0, 70)
+'long-correct', (512, 70)
+'largest-correct', (1024, 70)
+'long_album-correct', (1536, 70)
+'track_count-correct', (2048, 70)
+'album_count-correct', (2560, 70)
+'busiest_artists-correct', (3072, 70)

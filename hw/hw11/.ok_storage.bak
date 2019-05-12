@@ -1,0 +1,5 @@
+'scale-correct', (0, 70)
+'merge-correct', (512, 70)
+'remainders_generator-correct', (1024, 70)
+'is_prime-correct', (1536, 70)
+'primes-correct', (2048, 70)

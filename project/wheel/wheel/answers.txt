@@ -1,0 +1,8 @@
+1. We can name the object attributes with "_" profix to indicate that it is private.
+2. We can use a list or a set to hold the word set. Using a set is better, since the elements in a set are unique.
+3. We can use binary search to check whether the element is in the sorted list quickly.
+4. After opening the file, Dictionary use "WordSet.__init__(self, text)" to initialize its superclass.
+5. Players do not access the SecretWord object. Board reveals the length of the secret word. Board also shows the locations of some special charactor.
+6. The second method is more robust and concise, since if you want to change the text, you can change just one class(Player) ranther than many subclasses.
+7. The second one.
+8. Although these functions do not return anything, their existences indicate the subclasses of Player should implement these two functions for details.
